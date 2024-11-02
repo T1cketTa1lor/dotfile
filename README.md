@@ -1,0 +1,2 @@
+# dotfile
+zshrc setting
